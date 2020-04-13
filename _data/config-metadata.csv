@@ -5,8 +5,8 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location,true
-latitude,Latitude
-longitude,Longitude
+latitude,Latitude,true
+longitude,Longitude,true
 source,Source
 identifier,Source Identifier
 type,Type,
